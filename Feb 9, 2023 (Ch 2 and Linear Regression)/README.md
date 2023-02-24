@@ -24,7 +24,7 @@
 ## Meeting concluded at 6:15pm. Optional dinner afterwards at Pho Lee Hoa Phat.
 
 # Notes for next meeting:
-## Follow a stricter path. About 15 mins lost because of deviation from plan.
+- Follow a stricter path. About 15 mins lost because of deviation from plan.
 
 
 ![2023_0209_21075700(1)](https://user-images.githubusercontent.com/80879010/221294896-a92fc5e8-d418-49ff-82cf-c2cdaf54c025.jpg)
