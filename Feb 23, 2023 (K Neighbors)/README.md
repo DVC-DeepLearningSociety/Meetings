@@ -17,7 +17,7 @@
 ## Project Proposal by Karla
 
 ## Note for next meeting:
-## About 15 minutes lost for preparing after the Project Bracket Meeting.
+- About 15 minutes lost for preparing after the Project Bracket Meeting.
 
 ![2023_0223_21091100](https://user-images.githubusercontent.com/80879010/221295529-98208f4e-0ad1-4b56-9b4d-7526edbefe1e.jpg)
 ![2023_0223_20524000](https://user-images.githubusercontent.com/80879010/221295602-33159ffc-780d-4cde-a381-535e00bf81f5.jpg)
