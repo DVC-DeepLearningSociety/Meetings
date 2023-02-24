@@ -1,6 +1,6 @@
 # Meetings
 
-## A collection of code, slides, and other things covered
+## A collection of code, slides, and other things covered, click each folder for information, files, overview and pics!
 
 ### Important Links:
 
