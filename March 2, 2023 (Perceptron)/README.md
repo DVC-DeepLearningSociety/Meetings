@@ -1,4 +1,4 @@
-# DVC Deep Learning Society, 4th GM Secretary Report
+# DVC Deep Learning Society, 5th GM Secretary Report
 ## Date: March 2nd, 2023
 ## Location: BWL-113
 ## Attended Members: 20
